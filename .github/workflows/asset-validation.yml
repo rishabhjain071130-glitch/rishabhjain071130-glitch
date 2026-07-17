@@ -1,0 +1,83 @@
+# Asset Validation Workflow
+# Ensures all SVG files in the assets folder are valid XML and secure (contain no XSS scripts or event handlers)
+name: Asset Validation
+
+on:
+  push:
+    paths:
+      - 'assets/**/*.svg'
+      - 'assets/*.svg'
+  pull_request:
+    paths:
+      - 'assets/**/*.svg'
+      - 'assets/*.svg'
+  workflow_dispatch:
+
+jobs:
+  validate-svgs:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Run validation script
+        run: |
+          python -c "
+          import os, sys
+          import xml.etree.ElementTree as ET
+
+          errors = 0
+          svg_files = []
+
+          # Walk through the assets folder to find SVGs
+          for root, dirs, files in os.walk('assets'):
+              for file in files:
+                  if file.endswith('.svg'):
+                      svg_files.append(os.path.join(root, file))
+
+          print(f'Found {len(svg_files)} SVG files to validate.')
+
+          for filepath in svg_files:
+              print(f'Validating: {filepath} ...')
+              try:
+                  # Parse XML structure
+                  tree = ET.parse(filepath)
+                  root = tree.getroot()
+
+                  # Check for correct tag name
+                  # SVG namespace or local tag must be svg
+                  if not root.tag.endswith('svg'):
+                      print(f'ERROR: Root tag in {filepath} is not <svg> (found {root.tag})')
+                      errors += 1
+                      continue
+
+                  # Check for malicious tags (XSS Prevention)
+                  # Recursively search for any <script> tags or elements with inline event handlers
+                  for elem in root.iter():
+                      local_tag = elem.tag.split('}')[-1] if '}' in elem.tag else elem.tag
+                      if local_tag.lower() == 'script':
+                          print(f'SECURITY ERROR: <script> tag detected in {filepath}')
+                          errors += 1
+                      
+                      # Inline attributes containing event handlers
+                      for attr in elem.attrib:
+                          local_attr = attr.split('}')[-1] if '}' in attr else attr
+                          if local_attr.lower().startswith('on'):
+                              print(f'SECURITY ERROR: Inline event handler {local_attr} detected in {filepath}')
+                              errors += 1
+
+              except ET.ParseError as e:
+                  print(f'PARSE ERROR: Malformed XML in {filepath}: {e}')
+                  errors += 1
+
+          if errors > 0:
+              print(f'Validation failed. Found {errors} error(s).')
+              sys.exit(1)
+          else:
+              print('All SVG files are valid and secure.')
+          "

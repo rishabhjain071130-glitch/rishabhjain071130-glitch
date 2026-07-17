@@ -1,0 +1,28 @@
+# Markdown Linting Workflow
+# Checks all markdown files (README.md and documentation) for standard formatting, accessibility, and styling compliance.
+name: Markdown Lint
+
+on:
+  push:
+    paths:
+      - '**/*.md'
+  pull_request:
+    paths:
+      - '**/*.md'
+  workflow_dispatch:
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      # Checkout the repository
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      # Execute markdownlint using the latest cli2 action
+      - name: Run markdownlint-cli2
+        uses: DavidAnson/markdownlint-cli2-action@v24.0.0
+        with:
+          globs: |
+            README.md
+            docs/*.md
