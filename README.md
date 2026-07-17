@@ -1,164 +1,165 @@
-# Hi, I'm Rishabh Jain 👋
+<!-- TITLE: GitHub Profile OS - Rishabh Jain -->
+<div align="center">
+  <!-- Interactive Terminal SVG Banner -->
+  <img src="assets/banner.svg" alt="Portfolio OS Terminal Banner" width="100%" />
 
-> **Computer Science Student** &nbsp;•&nbsp; **AI Explorer** &nbsp;•&nbsp; **Cyber Security Learner** &nbsp;•&nbsp; **Full Stack Developer**
+  <br />
 
----
-
-<p align="left">
-  <a href="https://rishabhjain.dev" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  <!-- Professional Quick-Links Badges (Terminal-Styled) -->
+  <a href="https://rishabh-jain-one.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio_OS-090B12?style=flat-square&logo=terminal&logoColor=00F0FF&labelColor=1B365D" alt="Portfolio Website" />
   </a>
-  <a href="https://github.com/rishabhjain071130-glitch/rishabh-jain/raw/main/public/resume/Rishabh_Jain_Resume.pdf" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Resume-0f172a?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume" />
-  </a>
-  <a href="https://www.linkedin.com/in/rishabh-jain-40079a396/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/rishabh-jain-40079a396/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&labelColor=1B365D" alt="LinkedIn" />
   </a>
   <a href="mailto:rishabhjain071130@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white&labelColor=1B365D" alt="Email" />
   </a>
-</p>
+  <a href="https://github.com/rishabhjain071130-glitch">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white&labelColor=1B365D" alt="GitHub" />
+  </a>
+  <a href="https://rishabh-jain-one.vercel.app/resume/Resume_v2.pdf" download="Rishabh_Jain_Resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-4F7CFF?style=flat-square&logo=adobeacrobatreader&logoColor=white&labelColor=1B365D" alt="Resume" />
+  </a>
+
+  <br /><br />
+  
+  <p>
+    <strong>CS Student | Cyber Security &amp; AI Enthusiast | Full Stack Web Developer</strong>
+  </p>
+</div>
 
 ---
 
-## 👤 About Me
+## 01. User Profile
 
-I am a **Computer Science** student driven by a passion for building secure, intelligent, and real-world software solutions. My academic studies and self-directed projects focus on **Full Stack Web Development**, **Artificial Intelligence**, and **Cyber Security**. 
-
-Following a "build before theory" philosophy, I consolidate conceptual knowledge by engineering modular React/Next.js architectures, securing local Express servers, and designing reliable MongoDB/MySQL database models. I enjoy dissecting complex systems under the hood to ensure software quality, security compliance, and user accessibility.
-
----
-
-## 🎯 Current Focus
-
-- 🤖 **AI Engineering** — Designing prompt chains, evaluating model capabilities, and exploring agentic frameworks.
-- ⚡ **Next.js** — Building fast, search-optimized, and accessible web experiences.
-- 🛡️ **Cyber Security** — Learning network defense fundamentals, security hardening, and OWASP principles.
-- 🌐 **Open Source** — Contributing to developer tooling and exploring open collaboration.
-- ☁️ **Cloud Fundamentals** — Deploying static architectures and studying serverless technologies.
+```yaml
+Bio: |
+  Building secure, intelligent, and scalable software through real-world engineering
+  projects while continuously learning Cyber Security, AI, and Full Stack Development.
+Location: Uttar Pradesh, India 🇮🇳
+Academic:
+  Institute: GLA University
+  Program: Diploma in Computer Science & Engineering (2023 - 2027)
+Career Status: 🟢 Open to Internships & Collaboration (Web Dev / Cyber Security)
+OWASP Standard: 100% committed to Defensive Coding & Secure Implementations
+```
 
 ---
 
-## 🛠️ Tech Stack
+## 02. System Specifications (Tech Stack)
 
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | ![TypeScript](https://img.shields.io/badge/TypeScript-0f172a?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-0f172a?style=flat-square&logo=javascript&logoColor=white) ![Python](https://img.shields.io/badge/Python-0f172a?style=flat-square&logo=python&logoColor=white) |
-| **Frontend** | ![Next.js](https://img.shields.io/badge/Next.js-0f172a?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-0f172a?style=flat-square&logo=react&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-0f172a?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-0f172a?style=flat-square&logo=css3&logoColor=white) |
-| **Backend & Databases** | ![Node.js](https://img.shields.io/badge/Node.js-0f172a?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-0f172a?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-0f172a?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-0f172a?style=flat-square&logo=mysql&logoColor=white) |
-| **Security & Networking** | ![Networking](https://img.shields.io/badge/Networking-0f172a?style=flat-square&logo=cisco&logoColor=white) ![Palo Alto Networks](https://img.shields.io/badge/Security-0f172a?style=flat-square&logo=paloaltonetworks&logoColor=white) |
-| **Developer Tools** | ![Git](https://img.shields.io/badge/Git-0f172a?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-0f172a?style=flat-square&logo=github&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-0f172a?style=flat-square&logo=linux&logoColor=white) |
+```ini
+[Programming Languages]
+TypeScript = Intermediate
+JavaScript = Intermediate
+Python     = Intermediate
+C          = Intermediate
+SQL        = Intermediate
 
----
+[Frontend Specifications]
+React      = Intermediate
+Next.js    = Intermediate
+Tailwind   = Advanced
+HTML5/CSS3 = Advanced
 
-## 🚀 Featured Projects
+[Backend Engine]
+Node.js    = Basics
+Express.js = Basics
+REST APIs  = Intermediate
 
-### 🖥️ [Portfolio OS](https://github.com/rishabhjain071130-glitch/rishabh-jain)
-*Interactive terminal-inspired developer portfolio and digital resume.*
-- **Core Features:** Interactive simulated SSH console, custom local Q&A AI mentor chatbot, Ctrl+K global command palette, and polymorphic accessible UI components.
-- **Tech Stack:** TypeScript, Next.js, React, Tailwind CSS.
-- **Links:** 📂 [Code Repository](https://github.com/rishabhjain071130-glitch/rishabh-jain) &nbsp;•&nbsp; 🌐 [Live Website](https://rishabhjain.dev)
+[Databases]
+MongoDB    = Basics
+SQL        = Oracle Database SQL Certified Associate
 
----
+[Cyber Security]
+Web Security (OWASP) = Basics (Authorization, Data Sanitization)
+Network Defense      = Basics (Gateway Protections, Firewall Management)
+Networking           = Intermediate (TCP/IP, Routing & Subnetting)
+Security Fundamentals = Intermediate
 
-### 🤖 [EduPilot AI](https://github.com/rishabhjain071130-glitch/EduPilot-AI)
-*AI career roadmapping assistant designed to guide academic and professional decisions.*
-- **Core Features:** User interests evaluation form, custom generative roadmap builder using Gemini API, and step-by-step career path visualizations.
-- **Tech Stack:** Python, Streamlit, HTML, CSS.
-- **Links:** 📂 [Code Repository](https://github.com/rishabhjain071130-glitch/EduPilot-AI) &nbsp;•&nbsp; 🌐 [Live Demo](https://edupilot-ai-nitweutyqdvdwhc6uypzqb.streamlit.app/)
-
----
-
-### 💳 [Digital Loan System](https://github.com/rishabhjain071130-glitch/digitalloansystem)
-*A secure, member-based society loan management database utility.*
-- **Core Features:** Admin session store with SHA-256 password hashing, dynamic member/loan endpoints, and database record synchronization.
-- **Tech Stack:** JavaScript, Node.js, Express, MongoDB.
-- **Links:** 📂 [Code Repository](https://github.com/rishabhjain071130-glitch/digitalloansystem) &nbsp;•&nbsp; ⚙️ *Local Run Setup*
-
----
-
-## 🎓 Education
-
-- 🏫 **Diploma in Computer Science & Engineering** (Lateral Entry)
-  **GLA University** | *2025 — 2027*
-  - Active study of operating systems, database schemas, object-oriented concepts, and computer network layers.
-- 📜 **Intermediate / Class 12**
-  **S.M.S Jain Inter College** (UP Board) | *Completed*
-  - Focus on Mathematics, Physics, and computer logic basics.
-- 📜 **Secondary / Class 10**
-  **S.M.S Jain Inter College** (UP Board) | *Completed*
-  - Foundation in science and mathematics.
+[Developer Tools]
+Git & GitHub         = Intermediate
+VS Code              = Advanced
+```
 
 ---
 
-## 💼 Experience
+## 03. Executables (Featured Projects)
 
-- 💻 **Web Development Intern** &nbsp;•&nbsp; *Labmentix*
-  *February 2026 — Present (6-Month Term)*
-  - Developing modular React UI elements and templates.
-  - Designing Express backend controllers integrated with MongoDB databases.
-  - Writing API endpoints documentation and setting up local developer guides.
-- 🌐 **Web Development Intern** &nbsp;•&nbsp; *DecodeLabs*
-  *Summer 2025*
-  - Collaborated on developing frontend interface layouts using HTML, CSS, and JavaScript.
-  - Configured project workflows and managed code contributions using Git and GitHub.
+### 📂 [Rishabh Portfolio OS](https://github.com/rishabhjain071130-glitch/rishabh-jain)
+> **Frontend Engineering | Summer 2026**
+* **Description**: A terminal-themed developer portfolio website featuring simulated CLI navigation, custom shell commands, and clean typography.
+* **Architecture**: Responsive design, custom terminal components, lightweight CSS animations, and rate-limited dispatch modules.
+* **Stack**: Next.js, React, Tailwind CSS, JavaScript, HTML, CSS, Git.
+* **Links**: [📁 Source Repository](https://github.com/rishabhjain071130-glitch/rishabh-jain) | [⚡ Live Interactive App](https://rishabh-jain-one.vercel.app)
 
----
+### 📂 [EduPilot AI](https://github.com/rishabhjain071130-glitch/EduPilot-AI)
+> **Artificial Intelligence | Spring 2026**
+* **Description**: A Python-based career mentorship helper designed to address student decision fatigue. Generates custom learning roadmaps.
+* **Architecture**: Multi-agent system featuring interest evaluation forms, quick reference dashboards, and interactive mentorship chatbot.
+* **Stack**: Python, Streamlit, Git.
+* **Links**: [📁 Source Repository](https://github.com/rishabhjain071130-glitch/EduPilot-AI) | [⚡ Live Interactive App](https://edupilot-ai-nitweutyqdvdwhc6uypzqb.streamlit.app/)
 
-<details>
-<summary>🏅 Highlighted Certifications (Click to expand)</summary>
-
-- **Cyber Security:**
-  - Palo Alto Networks — *Network Security Gateway*
-  - Palo Alto Networks — *Cloud Security Associate*
-  - Palo Alto Networks — *Security Operations Associate*
-  - Palo Alto Networks — *Network Defense Fundamentals*
-  - Palo Alto Networks — *Firewall Essentials*
-  - Palo Alto Networks — *Security Gateway Associate*
-  - Palo Alto Networks — *Cyber Defense Associate*
-  - Google / Udacity — *Google Trust & Security Course Certificate*
-- **AI & Databases:**
-  - Microsoft — *Microsoft Agentic AI Certification*
-  - Google / Udacity — *Google Generative AI & Large Language Models Certificates*
-  - IBM — *Machine Learning Roadmap Certification*
-  - Oracle — *Database SQL Certified Associate*
-- **Software Engineering & Cloud:**
-  - Microsoft — *Web Technology Specialization*
-  - Microsoft — *Azure Infrastructure Specialist*
-  - Microsoft — *DevOps Practices Certification*
-  - Microsoft — *Technical Associate Certificate*
-</details>
-
-<details>
-<summary>🌟 Core Values (Click to expand)</summary>
-
-- **Continuous Learning:** Always acquiring new technical knowledge and building robust mental models.
-- **Problem Solving:** Approaching challenges logically to design practical, resilient solutions.
-- **Security First:** Integrating authorization, encryption, and secure coding principles by default.
-- **Build Before Theory:** Consolidating conceptual understanding through tangible implementation.
-- **Curiosity:** Asking 'why' and diving deep into how systems work under the hood.
-- **Quality:** Writing readable, well-typed code and engineering polished user interfaces.
-- **Consistency:** Working daily to hone skills and make compounding professional gains.
-- **Ownership:** Taking responsibility for software quality, system uptime, and design choices.
-</details>
+### 📂 [FinFlow (Digital Loan System)](https://github.com/rishabhjain071130-glitch/digitalloansystem)
+> **Web Development | Winter 2025**
+* **Description**: A simple budgeting web application built to track personal transactions and visualize spending categories.
+* **Architecture**: Secure data sanitization, client-side transaction rendering, responsive dashboard grid.
+* **Stack**: JavaScript, HTML, CSS, Git.
+* **Links**: [📁 Source Repository](https://github.com/rishabhjain071130-glitch/digitalloansystem) | [⚡ Live Site Section](https://rishabh-jain-one.vercel.app/#projects)
 
 ---
 
-## 📊 GitHub Performance
+## 04. Active Processes (Current Focus)
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rishabhjain071130-glitch&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8" alt="Rishabh's GitHub Stats" width="48%" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhjain071130-glitch&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=94a3b8" alt="Top Languages" width="48%" />
-</p>
+```text
+[ACTIVE PROCESSES LOG]
+--------------------------------------------------------------------------------
+PID    PROCESS NAME             STATUS      PROGRESS / ACTION TARGET
+--------------------------------------------------------------------------------
+1001   building:portfolio_os    RUNNING     Refining terminal command extensions
+1002   learning:cyber_security  RUNNING     Palo Alto Network Gateway associate certs
+1003   learning:agentic_ai      RUNNING     Building multi-agent task flows (Python)
+1004   reading:owasp_guide      WAITING     Reviewing secure session/token management
+1005   preparing:internships    ACTIVE      Preparing core DSA & secure coding patterns
+--------------------------------------------------------------------------------
+```
 
 ---
 
-## 🤝 Let's Connect
+## 05. Performance Metrics (Analytics)
 
-Feel free to reach out for internship opportunities, technical collaborations, or just to chat about web security and AI:
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%" align="center" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api?username=rishabhjain071130-glitch&show_icons=true&theme=tokyonight&bg_color=090B12&title_color=00F0FF&text_color=E2E8F0&icon_color=4F7CFF&border_color=1B365D&hide_border=false" alt="Rishabh's GitHub Stats" width="100%" />
+      </td>
+      <td width="50%" align="center" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhjain071130-glitch&layout=compact&theme=tokyonight&bg_color=090B12&title_color=00F0FF&text_color=E2E8F0&border_color=1B365D&hide_border=false" alt="Top Languages" width="100%" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center" valign="top">
+        <br />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhjain071130-glitch&theme=tokyonight&background=090B12&fire=00F0FF&ring=4F7CFF&lblb=E2E8F0&currTxt=E2E8F0&sideBorder=1B365D&border=1B365D" alt="Streak Stats" width="100%" />
+      </td>
+    </tr>
+  </table>
 
-- 🌐 **Portfolio:** [rishabhjain.dev](https://rishabhjain.dev)
-- 💼 **LinkedIn:** [linkedin.com/in/rishabh-jain-40079a396](https://www.linkedin.com/in/rishabh-jain-40079a396/)
-- 📧 **Email:** [rishabhjain071130@gmail.com](mailto:rishabhjain071130@gmail.com)
-- 📂 **GitHub:** [github.com/rishabhjain071130-glitch](https://github.com/rishabhjain071130-glitch)
+  <br />
+
+  <!-- Contribution Snake Grid (Auto-updated via GitHub Actions) -->
+  <h4>Contribution Grid Activity</h4>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rishabhjain071130-glitch/rishabhjain071130-glitch/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rishabhjain071130-glitch/rishabhjain071130-glitch/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/rishabhjain071130-glitch/rishabhjain071130-glitch/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+</div>
+
+---
+
+<div align="center">
+  <sub>Portfolio OS (V1.0.0) | Securely Engineered by <a href="https://github.com/rishabhjain071130-glitch">rishabhjain071130-glitch</a></sub>
+</div>
