@@ -26,12 +26,12 @@
   <a href="https://rishabh-jain-one.vercel.app/resume/Resume_v2.pdf" download="Rishabh_Jain_Resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Resume-4F7CFF?style=flat-square&logo=adobeacrobatreader&logoColor=white&labelColor=1B365D" alt="Resume" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=rishabhjain071130-glitch&amp;color=00F0FF&amp;style=flat-square&amp;label=PROFILE+VIEWS" alt="Profile Views" />
 
   <br /><br />
   
-  <p>
-    <strong>CS Student | Cyber Security &amp; AI Enthusiast | Full Stack Web Developer</strong>
-  </p>
+  <!-- Dynamic Typing Animation -->
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;size=16&amp;duration=3000&amp;pause=1000&amp;color=00F0FF&amp;background=090B1200&amp;center=true&amp;vCenter=true&amp;width=450&amp;height=35&amp;lines=CS+Student;Cyber+Security+Enthusiast;Full+Stack+Web+Developer;Defensive+Coding+Practitioner" alt="Typing Animation" />
 </div>
 
 <img src="assets/divider.svg" alt="divider" width="100%" />
