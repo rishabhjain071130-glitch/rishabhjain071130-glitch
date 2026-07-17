@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" fill="none" stroke="currentColor">
+  <!-- Code Brackets -->
+  <path d="M20,18 L8,32 L20,46" stroke="#4F7CFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M44,18 L56,32 L44,46" stroke="#4F7CFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+  <line x1="36" y1="14" x2="28" y2="50" stroke="#1B365D" stroke-width="2" stroke-linecap="round" />
+
+  <!-- Shield overlay at the bottom right corner -->
+  <circle cx="48" cy="48" r="10" fill="#090B12" stroke="#00F0FF" stroke-width="2" />
+  <!-- Checkmark -->
+  <path d="M44,48 L47,51 L52,45" stroke="#00F0FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+</svg>

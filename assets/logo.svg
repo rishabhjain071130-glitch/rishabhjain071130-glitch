@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+  <style>
+    .bg {
+      fill: #090B12;
+      stroke: #1B365D;
+      stroke-width: 2;
+    }
+    .prompt {
+      font-family: 'JetBrains Mono', 'Fira Code', Monaco, Consolas, monospace;
+      font-size: 42px;
+      font-weight: bold;
+      fill: #4F7CFF;
+    }
+    .cursor {
+      fill: #00F0FF;
+      animation: blink 1s infinite;
+    }
+    @keyframes blink {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0; }
+    }
+  </style>
+  <rect x="2" y="2" width="96" height="96" rx="16" class="bg" />
+  <text x="22" y="62" class="prompt">&gt;<tspan class="cursor">_</tspan></text>
+</svg>

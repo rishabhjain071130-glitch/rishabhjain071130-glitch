@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 220" width="100%" height="100%" style="border-radius: 6px;">
+  <style>
+    .card-bg {
+      fill: #090B12;
+      stroke: #1B365D;
+      stroke-width: 2;
+    }
+    .header-bar {
+      fill: #111420;
+      stroke: #1B365D;
+      stroke-width: 1;
+    }
+    .text-title {
+      font-family: 'JetBrains Mono', 'Fira Code', Monaco, Consolas, monospace;
+      font-size: 15px;
+      font-weight: bold;
+      fill: #4F7CFF;
+    }
+    .text-body {
+      font-family: 'JetBrains Mono', 'Fira Code', Monaco, Consolas, monospace;
+      font-size: 13px;
+      fill: #E2E8F0;
+    }
+    .text-label {
+      fill: #B0B3B8;
+      font-weight: 500;
+    }
+    .text-value {
+      fill: #FFFFFF;
+    }
+    .text-highlight {
+      fill: #00F0FF;
+      font-weight: bold;
+    }
+  </style>
+
+  <!-- Card BG -->
+  <rect x="1" y="1" width="498" height="218" rx="6" class="card-bg" />
+
+  <!-- Header Bar -->
+  <path d="M1,7 A6,6 0 0,1 7,1 L493,1 A6,6 0 0,1 499,7 L499,28 L1,28 Z" class="header-bar" />
+  <circle cx="12" cy="14" r="4" fill="#FF5F56" />
+  <circle cx="24" cy="14" r="4" fill="#FFBD2E" />
+  <circle cx="36" cy="14" r="4" fill="#27C93F" />
+  
+  <text x="50" y="19" class="text-title">sys_user_info.cfg</text>
+
+  <!-- Details -->
+  <!-- Name -->
+  <text x="20" y="60" class="text-body">
+    <tspan class="text-label">Name           ::</tspan> <tspan class="text-highlight">Rishabh Jain</tspan>
+  </text>
+
+  <!-- Education -->
+  <text x="20" y="90" class="text-body">
+    <tspan class="text-label">Education      ::</tspan> <tspan class="text-value">GLA University (Diploma CSE, 2023 - 2027)</tspan>
+  </text>
+
+  <!-- Location -->
+  <text x="20" y="120" class="text-body">
+    <tspan class="text-label">Location       ::</tspan> <tspan class="text-value">Uttar Pradesh, India 🇮🇳</tspan>
+  </text>
+
+  <!-- Focus -->
+  <text x="20" y="150" class="text-body">
+    <tspan class="text-label">Core Focus     ::</tspan> <tspan class="text-value">Cyber Security | AI Agents | Full Stack</tspan>
+  </text>
+
+  <!-- Status -->
+  <text x="20" y="180" class="text-body">
+    <tspan class="text-label">Intern Status  ::</tspan> <tspan class="text-highlight">🟢 Open to Internships &amp; Collaboration</tspan>
+  </text>
+</svg>

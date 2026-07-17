@@ -3,6 +3,11 @@
   <!-- Interactive Terminal SVG Banner -->
   <img src="assets/banner.svg" alt="Portfolio OS Terminal Banner" width="100%" />
 
+  <br /><br />
+  
+  <!-- Portfolio OS Brand Logo -->
+  <img src="assets/logo.svg" alt="Portfolio OS Logo" width="70" />
+  
   <br />
 
   <!-- Professional Quick-Links Badges (Terminal-Styled) -->
@@ -29,9 +34,19 @@
   </p>
 </div>
 
----
+<img src="assets/divider.svg" alt="divider" width="100%" />
 
-## 01. User Profile
+## <img src="assets/icons/defensive.svg" width="28" align="center" alt="Defensive icon" /> 01. User Profile
+
+<div align="center">
+  <!-- Visual Profile Card SVG -->
+  <img src="assets/profile_card.svg" alt="User Profile Config" width="500" />
+</div>
+
+<br />
+
+<details>
+  <summary><b>Click to expand raw user_profile.yaml</b></summary>
 
 ```yaml
 Bio: |
@@ -44,10 +59,11 @@ Academic:
 Career Status: 🟢 Open to Internships & Collaboration (Web Dev / Cyber Security)
 OWASP Standard: 100% committed to Defensive Coding & Secure Implementations
 ```
+</details>
 
----
+<img src="assets/divider.svg" alt="divider" width="100%" />
 
-## 02. System Specifications (Tech Stack)
+## <img src="assets/icons/cybersecurity.svg" width="28" align="center" alt="Security icon" /> 02. System Specifications (Tech Stack)
 
 ```ini
 [Programming Languages]
@@ -83,9 +99,16 @@ Git & GitHub         = Intermediate
 VS Code              = Advanced
 ```
 
----
+<img src="assets/divider.svg" alt="divider" width="100%" />
 
-## 03. Executables (Featured Projects)
+## <img src="assets/icons/ai.svg" width="28" align="center" alt="AI icon" /> 03. Executables (Featured Projects)
+
+<div align="center">
+  <!-- Code/Terminal Visual Illustration -->
+  <img src="assets/terminal.svg" alt="Terminal Illustration" width="550" />
+</div>
+
+<br />
 
 ### 📂 [Rishabh Portfolio OS](https://github.com/rishabhjain071130-glitch/rishabh-jain)
 > **Frontend Engineering | Summer 2026**
@@ -108,7 +131,7 @@ VS Code              = Advanced
 * **Stack**: JavaScript, HTML, CSS, Git.
 * **Links**: [📁 Source Repository](https://github.com/rishabhjain071130-glitch/digitalloansystem) | [⚡ Live Site Section](https://rishabh-jain-one.vercel.app/#projects)
 
----
+<img src="assets/divider.svg" alt="divider" width="100%" />
 
 ## 04. Active Processes (Current Focus)
 
@@ -125,7 +148,7 @@ PID    PROCESS NAME             STATUS      PROGRESS / ACTION TARGET
 --------------------------------------------------------------------------------
 ```
 
----
+<img src="assets/divider.svg" alt="divider" width="100%" />
 
 ## 05. Performance Metrics (Analytics)
 
@@ -158,7 +181,7 @@ PID    PROCESS NAME             STATUS      PROGRESS / ACTION TARGET
   </picture>
 </div>
 
----
+<img src="assets/divider.svg" alt="divider" width="100%" />
 
 <div align="center">
   <sub>Portfolio OS (V1.0.0) | Securely Engineered by <a href="https://github.com/rishabhjain071130-glitch">rishabhjain071130-glitch</a></sub>
