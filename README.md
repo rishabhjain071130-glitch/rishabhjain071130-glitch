@@ -131,7 +131,7 @@ PID    PROCESS NAME             STATUS      PROGRESS / ACTION TARGET
     <tr>
       <td colspan="2" align="center" valign="top">
         <br />
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhjain071130-glitch&amp;theme=tokyonight&amp;background=090B12&amp;fire=00F0FF&amp;ring=4F7CFF&amp;currTxt=E2E8F0&amp;sideBorder=1B365D&amp;border=1B365D" alt="Streak Stats" width="100%" />
+        <img src="https://streak-stats.demolab.com/?user=rishabhjain071130-glitch&amp;theme=tokyonight&amp;background=090B12&amp;fire=00F0FF&amp;ring=4F7CFF&amp;currTxt=E2E8F0&amp;sideBorder=1B365D&amp;border=1B365D" alt="Streak Stats" width="100%" />
       </td>
     </tr>
   </table>
